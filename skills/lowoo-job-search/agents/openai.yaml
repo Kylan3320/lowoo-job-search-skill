@@ -1,0 +1,4 @@
+interface:
+  display_name: "lowoo 求职助手"
+  short_description: "结合个人简历和改稿习惯写 BOSS 招呼语，按需同步招聘平台资料"
+  default_prompt: "用 $lowoo-job-search 帮我处理这次的岗位或简历资料。"
