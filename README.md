@@ -1,4 +1,4 @@
-<h1 align="center">lowoo 求职助手</h1>
+<h1 align="center">老吴？求职助手</h1>
 
 <p align="center">
   <a href="skills/lowoo-job-search/SKILL.md"><img src="assets/readme/codex-skill.svg" alt="Codex Skill"></a>
